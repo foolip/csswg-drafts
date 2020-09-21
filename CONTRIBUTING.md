@@ -1,10 +1,10 @@
 # Contributor Guidelines
 
-Thank you for your interest in contributing to the [CSS Working Group](https://www.w3.org/Style/CSS/) 
+Thank you for your interest in contributing to the [CSS Working Group](https://www.w3.org/Style/CSS/)
 drafts!
 
-Contributions to this repository are intended to become part of Recommendation-track 
-documents governed by the: 
+Contributions to this repository are intended to become part of Recommendation-track
+documents governed by the:
 
   * [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20040205/)
   * [Software and Document License](https://www.w3.org/Consortium/Legal/copyright-software)
@@ -19,18 +19,18 @@ The first step for any substantive contribution is to either:
   1. [Find an existing issue](https://github.com/w3c/csswg-drafts/issues) directly related to the contribution
   2. [Add a new issue](https://github.com/w3c/csswg-drafts/issues/new)
 
-Issues are where individual reports and Working Group discussions come together such 
+Issues are where individual reports and Working Group discussions come together such
 that the eventual consensus can be turned into official specification language.
 
-If you are familiar with a [GitHub-based pull request contribution workflow](https://help.github.com/articles/about-pull-requests/), 
-please note that **most issues are subject to quite a bit of discussion** before 
+If you are familiar with a [GitHub-based pull request contribution workflow](https://help.github.com/articles/about-pull-requests/),
+please note that **most issues are subject to quite a bit of discussion** before
 they are ready for a pull request with specific wording changes. Please ensure
 the full problem space of the issue is explored in the discussion, and that
 consensus has been reached by the participants, before drafting a pull request.
 
 ## Normative and/or substantive contributions
 
-The CSS Working Group operates via the consensus of its membership, and discusses 
+The CSS Working Group operates via the consensus of its membership, and discusses
 all significant matters prior to implementation.
 
 The Editors responsible for a particular spec are responsible for triaging their
@@ -59,7 +59,7 @@ of that particular spec be involved, either as originator or as reviewer, in
 any changes. We also encourage other participants in the issue discussion to
 review the changes and request corrections or improvements as necessary.
 
-Please follow the [Pull Request template](https://github.com/w3c/csswg-drafts/blob/master/.github/PULL_REQUEST_TEMPLATE.md) 
+Please follow the [Pull Request template](https://github.com/w3c/csswg-drafts/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 when contributing to the repository.
 
 ### Tests
